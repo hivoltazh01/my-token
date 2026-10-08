@@ -1,0 +1,17 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "A copy of Tether USD for academic project on BSC Network.",
+    "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0x7cf4f229a6a6eff8ac2afcdda0d95fd76d5cd0e3",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+        }
+    ]
+}
